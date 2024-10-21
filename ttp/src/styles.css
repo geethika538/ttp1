@@ -1,0 +1,23 @@
+/* src/styles.css */
+.app {
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+}
+
+.ticket {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.ticket-list {
+    margin-top: 20px;
+}
